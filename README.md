@@ -1,4 +1,7 @@
 # Android-Studio
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/34c0347959c84aa2be7751c241d9d5fa)](https://app.codacy.com/app/bbusines77/Android-Studio?utm_source=github.com&utm_medium=referral&utm_content=BuatApkOlshop/Android-Studio&utm_campaign=Badge_Grade_Settings)
+
 Welcome tho tutorial android studio.programer
 ---
 Langkah pertama untuk membuat “Hello World” di android studio,jika belum punya android studio bisa di download lewat link berikut [DOWNLOAD](https://developer.android.com/studio/index.html?hl=id#win-bundle)
