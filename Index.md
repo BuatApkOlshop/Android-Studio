@@ -1,4 +1,3 @@
-Pendaftaran
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +15,7 @@ Pendaftaran
             <td><input name="tempat_lahir" id="tempat_lahir" type="text" class="form"></td>
             <td><label>Tanggal Lahir</label></td>
             <td>
-                <select name="tgl_lahir" class="form">
+              <select name="tgl_lahir" class="form">
                     <option>xx</option>
                     <option>xx</option>
                     <option>xx</option>
